@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.add-btn{
+  background-color: skyblue;
+  margin: 5px;
+  font-size: 12px;
+}
+.clear-btn {
+  background-color: red;
+  margin: 5px;
+  font-size: 12px;
+}
+.todo-container {
+  text-align: left;
+  width: 200px;
+  padding: 5px;
+}
+.delete-icon{
+  font-size: 12px;
+  margin-left: 10px;
+  float: right;
+}
